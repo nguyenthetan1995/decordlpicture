@@ -1,0 +1,11 @@
+[
+    {"id":1,"name":"Bộ thứ nhất","cost": 1250000,"width": "440px", "height": "220px","url": "assets/image/mockup1.png"},
+    {"id":2,"name":"Bộ thứ hai","cost": 1125000,"width": "380px", "height": "242px","url": "assets/image/mockup2.png"},
+    {"id":3,"name":"Bộ thứ ba","cost": 900000,"width": "346px", "height": "257px","url": "assets/image/mockup3.png"},
+    {"id":4,"name":"Bộ thứ tư","cost": 1305000,"width": "400px", "height": "242px","url": "assets/image/mockup4.png"},
+    {"id":5,"name":"Bộ thứ năm","cost": 1350000,"width": "360px", "height": "147px","url":"assets/image/mockup5.png"},
+    {"id":6,"name":"Bộ thứ sáu","cost": 1350000,"width": "385px", "height": "240px","url": "assets/image/mockup6.png"},
+    {"id":7,"name":"Bộ thứ bảy","cost": 1250000,"width": "400px", "height": "242px","url": "assets/image/mockup7.png"},
+    {"id":8,"name":"Bộ thứ tám","cost": 1125000,"width": "363px", "height": "145px","url": "assets/image/mockup8.png"},
+    {"id":9,"name":"Bộ thứ chín","cost": 900000,"width": "550px", "height": "250px","url": "assets/image/mockup9.png"}
+  ]
